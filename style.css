@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(162, 196, 209);
+}
+.menuszin{
+    background-color: rgb(122, 155, 168);
+}
+p{
+    font-size: 25px;
+    font-weight: lighter;
+}
+
